@@ -2,5 +2,7 @@
 
 L'objectif de cette semaine est de vous faire pratiquer la synthaxe __Markdown__.
 
-Il vous faut donc faire un petit texte pour vous présenter ! ;)
+Il vous faut donc faire un petit texte pour vous présenter ! Nous ne dérogerons pas à la règle ;)
+
+##Simplonline, c'est quoi ?
 
