@@ -1,2 +1,6 @@
-# Semaine1
-Exemple de code pour les exercices de la première semaine.
+# Semaine1 - Exercice de présentation
+
+L'objectif de cette semaine est de vous faire pratiquer la synthaxe __Markdown__.
+
+Il vous faut donc faire un petit texte pour vous présenter ! ;)
+
