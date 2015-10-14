@@ -1,6 +1,6 @@
 # Semaine1 - Exercice de présentation
 
-L'objectif de cette semaine est de vous faire pratiquer la synthaxe __Markdown__.
+On commence en douceur. L'objectif de cette semaine est de vous familiariser avec Git et Github, et de vous faire pratiquer la synthaxe __Markdown__.
 
 Il vous faut donc faire un petit texte pour vous présenter ! Nous ne dérogerons pas à la règle ;)
 
