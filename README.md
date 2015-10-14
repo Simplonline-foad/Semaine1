@@ -22,11 +22,11 @@ Les deux versions existent en version « normale » ou « accompagné » (hotlin
 
 *Trois tarifs sont disponibles* :
 
-1. demandeurs d’emploi inscrits à Pôle Emploi (justificatifs demandés pour validation de l’inscription)
+1. __Demandeurs d’emploi__ inscrits à Pôle Emploi (justificatifs demandés pour validation de l’inscription)
 
-2. mineurs ou étudiants 
+2. __Mineurs ou étudiants__ 
 
-3. salariés, autoentrepreneurs, freelances…
+3. __Salariés, autoentrepreneurs__, __freelances__…
 
 Les sessions de 6 mois débutent __chaque 13 du mois__ !
 
